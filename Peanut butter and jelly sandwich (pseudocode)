@@ -24,4 +24,7 @@ If second slice of bread is entirely covered by jelly
   	put first slice of bread on second slice of bread by overlapping the side with peanut butter and the side with jelly 
 else  
   	go back to step 21
-Eat sandwich
+If you are a human
+	eat sandwich
+else
+	give sandwich to the human next to you 
