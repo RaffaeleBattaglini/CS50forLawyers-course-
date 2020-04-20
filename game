@@ -1,0 +1,7 @@
+import random
+n = random.randint(1, 11)
+guess = int(input("Guess: "))
+if guess == n:
+    print("Correct")
+else:
+    print("Incorrect")
