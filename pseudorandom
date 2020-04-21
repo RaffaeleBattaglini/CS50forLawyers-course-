@@ -1,7 +1,2 @@
-import random
-n = random.randint(1, 11)
-guess = int(input("Guess: "))
-for guess in range(0, 3):
-    print("Correct")
-else:
-    print("Incorrect")
+from random import randrange
+print(randrange(1, 11))
