@@ -13,9 +13,9 @@ Use knife to gather peanut butter from peanut butter jar
 Spread peanut butter on knife on first slice of bread
 If first slice of bread is entirely covered by peanut butter
 	put first slice of bread on plate
-	go to step 18
+	go to step 19
 else
-  	go back to step 11
+  	go back to step 12
 Clean knife with napkin
 Pick up second slice of bread
 Use knife to gather jelly from jelly jar
@@ -23,7 +23,7 @@ Spread jelly on the knife on second slice of bread
 If second slice of bread is entirely covered by jelly
   	put first slice of bread on second slice of bread by overlapping the side with peanut butter and the side with jelly
 else
-  	go back to step 21
+  	go back to step 22
 If you are a human
 	eat sandwich
 else
